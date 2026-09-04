@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pydantic
+httpx
+PyMuPDF
+pytest
